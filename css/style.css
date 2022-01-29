@@ -1,0 +1,76 @@
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+li {
+    list-style: none;
+}
+a,
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+img {
+    vertical-align: top;
+}
+
+
+.header {
+    color: crimson;
+}
+._nav {
+    color: darkorchid;
+}
+
+.content {
+    color: gold;
+}
+
+._main {
+    color: maroon;
+}
+.title{
+    color: blueviolet;
+}
+
+#name{
+    color: navy;
+}
+
+.ship_main>p {
+    color: midnightblue;
+}
+
+.left._main {
+    color: chartreuse;
+}
+span.left._main{
+    color: rgb(255, 136, 0);
+}
+#name2 {
+    color: darkslategray;
+}
+.press_main>p{
+     color: #000;
+}
+
+[title="test"]{
+    color: seagreen;
+}
+
+.none {
+    color: yellow;
+}
